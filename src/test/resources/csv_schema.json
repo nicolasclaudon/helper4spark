@@ -1,0 +1,7 @@
+{
+  "columns": [
+    {"name": "id", "drop" : true, "type": "integer"},
+    {"name": "prenom", "drop": false, "type": "string"},
+    {"name": "group", "drop": true, "type": "integer"}
+  ]
+}
