@@ -1,0 +1,71 @@
+### Java ###
+
+*.class
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
+.mtj.tmp/
+hs_err_pid*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+### Scala ###
+*.log
+
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+
+### Idea ###
+*.iml
+*.idea
+*.ipr
+*.iws
+*.gradle.xml
+
+
+### Eclipse ###
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.recommenders/
+.project
+.externalToolBuilders/
+*.launch
+.classpath
+.factorypath
+.target
+.springBeans
+.scala_dependencies
+.worksheet
+
+### Vim ###
+tags
+.*.swp
+.*.swo
+
+### Os X ###
+.DS_Store
